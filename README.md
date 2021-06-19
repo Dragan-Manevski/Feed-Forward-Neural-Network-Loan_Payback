@@ -208,7 +208,6 @@ There are many LendingClub data sets on Kaggle. Here is the information on this 
 
 #### 1. File Descriptions
 - FeedForward Neural Network - Loan_Payback.ipynb
-- Lending_Club_Loan_two.csv
 - Lending_Club_Loan_info.csv
 - README.md
 
