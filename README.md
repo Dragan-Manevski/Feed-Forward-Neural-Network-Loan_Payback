@@ -250,7 +250,6 @@ There are many LendingClub data sets on Kaggle. Here is the information on this 
       - 6.7.1 Calculate the Accuracy, Cross-entropy Loss and FNN Error
       - 6.7.2 Classification report
       - 6.7.3 Confusion matrix
-      - 6.7.4 Interpreting of Coefficient of the features
     - 6.8 Prediction on New Data
 
 #### 4. Executive Summary
