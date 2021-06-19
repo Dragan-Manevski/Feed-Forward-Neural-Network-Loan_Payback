@@ -3,7 +3,7 @@
 ### --------------------------------------------------------------------------------------------------------
 ### Feed-Forward Neural Network:
 - Abbreviation: **FNN**
-- Expand of the single Perceptron Model (which is build out based on a Biological Neuron Model) and create a Multi-layer Perceptron Model (also known as basic Artificial Neural Network (ANN))
+- **Expand of the single Perceptron Model** (which is build out based on a Biological Neuron Model) **and create a Multi-layer Perceptron Model** (also known as basic Artificial Neural Network (ANN))
 - **Structure of a Feed-Forward Neural Network** (basic ANN):		
 	- **Input layer** - first layer that directly accepts real data values (inputs of the raw data)
     - **Hidden layers** - layers between Input and Output layers (Black Box)
