@@ -23,7 +23,7 @@
     - Evaluate the prediction (estimated output ŷ) against true value of the label y -> Cost Functions and Gradient Descent
     - Update the Neural Network’s weights w and biases b -> Backpropagation
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Project Objective: Prediction of loan payback
 Create and train a Feed-Forward Neural Network model for Deep Learning classification that allows to put in a set of data and returns back a prediction (classification) whether or not someone will pay loan back to investor based on historical information. This way, in the future, when we get new potential customers, we can assess whether or not they are likely to pay back the loan.
 
@@ -199,7 +199,7 @@ There are many LendingClub data sets on Kaggle. Here is the information on this 
 ---
 ----
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Table of Contents:
 1. File Descriptions
 2. Technologies Used
