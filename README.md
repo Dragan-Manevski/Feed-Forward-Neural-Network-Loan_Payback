@@ -1,6 +1,6 @@
-### -------------------------------------------------------------------------------------------------------
+### -----------------------------------------------------------------------------------------------------
 # Feed-Forward Neural Network - Loan Payback
-### -------------------------------------------------------------------------------------------------------
+### -----------------------------------------------------------------------------------------------------
 ### Feed-Forward Neural Network:
 - Abbreviation: **FNN**
 - **Expand of the single Perceptron Model** (which is build out based on a Biological Neuron Model) **and create a Multi-layer Perceptron Model** (also known as basic Artificial Neural Network (ANN))
